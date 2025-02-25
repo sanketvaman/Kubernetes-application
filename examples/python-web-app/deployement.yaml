@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: python-app
-        image: omgarmode/my-python-app:v1
+        image: omgarmode/my-python-app:v2
         ports:
         - containerPort: 8000
